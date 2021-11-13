@@ -1,0 +1,66 @@
+.partnerIntegration-High , .audit-Completed ,.riskRating-High ,.latestOptions-Qualified ,.auditStatus-Completed ,.formRiskRating-formRiskRating-7 {
+    background-color: #ddeec4;
+}
+
+.partnerIntegration-Low , .audit-NotCompleted , .riskRating-Low  , .auditStatus-NotCompleted  , .formRiskRating-formRiskRating-2 {
+    background-color: #f3c0bf;
+}
+
+.partnerIntegration-Medium  , .riskRating-Medium{
+    background-color: #fddfbd;
+}
+
+/* Form due date */
+/* .audit-Completed {
+    background-color: #ddeec4;
+} */
+
+/* .audit-NotCompleted {
+    background-color: #f3c0bf;
+} */
+
+/* Risk score */
+
+/* .riskRating-High {
+    background-color: #ddeec4;
+} */
+
+/* .riskRating-Low {
+    background-color: #f3c0bf;
+} */
+
+/* .riskRating-Medium {
+    background-color: #fddfbd;
+} */
+
+.data-table-shadow {
+    box-shadow: inset 0 -3em 3em rgb(0 0 0 / 10%), 0 0 0 2px rgb(255 255 255), 0.3em 0.3em 1em rgb(0 0 0 / 30%)
+}
+/* .latestOptions-Qualified {
+    background-color: #ddeec4;
+} */
+.latestOptions-Non-Conformance .formRiskRating-formRiskRating-5 , .latestOptions-Non-Confidence {
+    background-color: #ffe48e;
+}
+
+/* Form due date */
+/* .auditStatus-Completed {
+    background-color: #ddeec4;
+} */
+
+/* .auditStatus-NotCompleted {
+    background-color: #f3c0bf;
+} */
+
+/* .formRiskRating-formRiskRating-7 {
+    background-color: #ddeec4;
+} */
+
+
+/* .formRiskRating-formRiskRating-2 {
+    background-color: #f3c0bf;
+} */
+/* .formRiskRating-formRiskRating-5 , .latestOptions-Non-Confidence {
+    background-color: #ffe48e;
+}
+ */

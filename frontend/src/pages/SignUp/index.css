@@ -1,0 +1,11 @@
+.register-label{
+    text-align: left ;
+    background-color: #FFFFFF;
+    padding-left: 15px;
+    margin-top: 2px;
+    border: 2px solid black;
+}
+
+.card-title > .form-group  .register-label {
+    margin-top: 2px;
+}

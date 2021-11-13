@@ -1,0 +1,14 @@
+.userAnalyticsBox {
+    padding-left: 10px;
+    /* padding-right: 10px; */
+}
+.content-title {
+    background-color: #E6E6E6;
+}
+
+.supplier-numbers {
+    background-color: #C4C4C4;
+    color: #F9F9F9;
+    padding-top: 25px;
+    font-size: 20px;
+}
